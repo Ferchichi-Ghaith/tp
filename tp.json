@@ -1,0 +1,27 @@
+{
+    "articles": [
+      {
+        "id": "1",
+        "titre": "PHP et MySQL pour les Nuls",
+        "prix": 35,
+        "auteur": "Janet Valade"
+      },
+      {
+        "id": "2",
+        "titre": "Beginning Vue 3 Development",
+        "prix": 75,
+        "auteur": "Greg Lim"
+      }
+    ],
+    "résumés": [
+      {
+        "id": "1",
+        "resum": "Ce livre vous introduira aux toutes dernières évolutions des deux langages. Vous apprendrez à manipuler tous les outils de gestion de sessions, les cookies, gérer le code XML et JavaScript, mettre en place des systèmes de sécurité, et bien d'autres choses encore..."
+      },
+      {
+        "id": "2",
+        "resum": "In this book, we take you on a fun, hands-on and pragmatic journey to quickly learn Vue and get familiar with how it works. You'll start building Vue apps within minutes. Every section is written in a bite-sized manner and straight to the point as I don’t want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have what it takes to develop a real-life app."
+      }
+    ]
+  }
+  

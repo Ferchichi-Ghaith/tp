@@ -1,0 +1,16 @@
+{
+    "articles": [
+    {
+    "id": "1",
+    "titre": "PHP et MySQL pour les Nuls",
+    "prix": 35,
+    "auteur": "Janet Valade"
+    },
+    {
+    "id": "2",
+    "titre": " Beginning Vue 3 Development",
+    "prix": 75,
+    "auteur": " Greg Lim"
+    }
+    ]
+}
